@@ -33,7 +33,7 @@ Open-source artificial intelligence models, libraries, infrastructure, and devel
 - [10. AI Safety, Alignment & Interpretability](#10-ai-safety-alignment--interpretability)
 - [11. Specialized Domains](#11-specialized-domains)
 - [12. User Interfaces & Self-hosted Platforms](#12-user-interfaces--self-hosted-platforms)
-- [13. Developer Tools & Integrations](#13-developer-tools--integrations)
+- [13. openrabbit](#13-developer-tools--integrations)
 - [14. Resources & Learning](#14-resources--learning)
 
 ---
@@ -1129,6 +1129,7 @@ Open-source artificial intelligence models, libraries, infrastructure, and devel
 - [Gitpod](https://github.com/gitpod-io/gitpod) - Cloud development environment platform with automated prebuilds, ephemeral workspaces, and support for any IDE. Self-hostable with open-source core. AGPL-3.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/gitpod-io/gitpod?style=social)
 - [Onlook](https://github.com/onlook-dev/onlook) - Open-source AI-first design and React editing environment for visually building and modifying frontend applications. ![GitHub stars](https://img.shields.io/github/stars/onlook-dev/onlook?style=social)
 - [Daytona](https://github.com/daytonaio/daytona) - Secure elastic infrastructure for running AI-generated code. Self-hosted alternative to GitHub Codespaces with support for multiple IDEs, prebuilds, and any cloud provider. AGPL-3.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/daytonaio/daytona?style=social)
+- [OpenRabbit](https://github.com/aryanbrite/openrabbit) - Free, open-source, self-hosted AI GitHub PR reviewer that runs entirely in GitHub Actions. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/aryanbrite/openrabbit?style=social)
 
 #### AI Coding Assistants (open-source)
 
